@@ -1,2 +1,2 @@
 # java_ativi
-Atividades em java
+Atividades simples em java
