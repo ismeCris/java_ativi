@@ -32,7 +32,7 @@ public class Estacoes {
 			System.out.println(" verao");
 			break;
 		}
-		
+		leitor.close();
 		
 	}
 
