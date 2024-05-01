@@ -19,6 +19,7 @@ public class Fatorial {
         }
 
         System.out.println("O fatorial de " + num + " é: " + fatorial);
+	leitor.close();
 	}
 
 }
